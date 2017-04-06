@@ -37,7 +37,7 @@ Fcgb         Kreativt skrivande
 ## Fe        Bokhandel och bokförlag
 
 ## Ff        Skrift
-###Ffa       Skrift- och alfabet (historia)
+### Ffa      Skrift- och alfabet (historia)
 Ffaa         Västerländska
 Ffaaa        Runor
 Ffab         Österländska
