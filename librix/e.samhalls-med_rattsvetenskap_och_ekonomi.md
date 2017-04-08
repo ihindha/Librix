@@ -70,3 +70,5 @@ Emaea           Upphovsrätt
 ## Eu           Ekonomi
 ### Eua         Nationalekonomi
 ### Eub         Företagsekonomi
+#### Eubn       Företagsformer
+Eubna           Egenföretagare
