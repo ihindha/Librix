@@ -10,16 +10,16 @@
 ## Nf         Textil
 ### Nfa       Vävnad
 ### Nfb       Sömnad
-Nfba          Lappsömnad
+#### Nfba     Lappsömnad
 ### Nfc       Virkning och stickning
 
 ## Ng         Mat och dryck
 ### Nga       Matlagning
 ### Ngb       Dryck
-Ngba          Whisky
-Ngbb          Vin
-Ngbc          Öl
-Ngbd          Te/kaffe
-Ngc           Mat
-Ngca          Ost
-Ngcb          Choklad
+#### Ngba     Whisky
+#### Ngbb     Vin
+#### Ngbc     Öl
+#### Ngbd     Te/kaffe
+### Ngc       Mat
+#### Ngca     Ost
+#### Ngcb     Choklad

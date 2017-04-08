@@ -2,11 +2,11 @@
 
 ## Qa          Fysik och Kemi
 ### Qaa        Fysik
-Qaaa           Akustik
-Qaab           Optik
-Qaac           Värmelära
-Qaad           Elektronik och magnetism
-Qaae           Teoretisk och matematisk
+#### Qaaa      Akustik
+#### Qaab      Optik
+#### Qaac      Värmelära
+#### Qaad      Elektronik och magnetism
+#### Qaae      Teoretisk och matematisk
 ### Qab        Kemi
 ### Qac        Astronomi
 
@@ -17,12 +17,12 @@ Qaae           Teoretisk och matematisk
 .02            Preparering och restaurang
 .05            Paleoekologi
 .08            Fossila plankton
-Qbba           Paleobotanik
-Qbbb           Paleozoologi
+#### Qbba      Paleobotanik
+#### Qbbb      Paleozoologi
 
 ## Qc          Geofysik
 ### Qca        Meteorologi
-Qcaj           Klimatologi
+#### Qcaj      Klimatologi
 
 ## Qd          Biologi
 ## Qe          Botanik

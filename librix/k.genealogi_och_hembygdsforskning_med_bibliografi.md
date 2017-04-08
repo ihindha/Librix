@@ -7,9 +7,9 @@
 ### Kbb         Kungalängder
 ### Kbc         Adresskalendrar m.m.
 #### Kbca       Adresskalendrar
-Kbcc            Matriklar
-Kbcd            Telefonkalender
-Kbce            Militärer inom ett vist område
+#### Kbcc       Matriklar
+#### Kbcd       Telefonkalender
+#### Kbce       Militärer inom ett vist område
 ### Kbd         Övrigt t.ex. Antavlor
 
 ## Kc           Datorer i släktforskningen

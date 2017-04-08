@@ -13,18 +13,18 @@
 ### Sbb      Målning
 ### Sbc      Grafisk konst
 ### Sbe      Konsthantverk
-Sbea         Textilkonst
+#### Sbea    Textilkonst
 Sbeaa        Vävnader
-Sbeb         Ornamentik
-Sbec         Konsthantverk i trä
-Sbed         Konsthantverk i metall
-Sbee         Keramik och glas
-Sbef         Reklamkonst
-Sbeg         Klädhistoria
+#### Sbeb    Ornamentik
+#### Sbec    Konsthantverk i trä
+#### Sbed    Konsthantverk i metall
+#### Sbee    Keramik och glas
+#### Sbef    Reklamkonst
+#### Sbeg    Klädhistoria
 
 ## Sc        Arkitektur
 ### Sca      Byggnader för särskilda ändamål
-Scah         Byggnader för försvar
+#### Scah    Byggnader för försvar
 ### Scm      Stadsplanekonst
 ### Scn      Landskapsarkitektur
 ### Sco      Byggnadsvård

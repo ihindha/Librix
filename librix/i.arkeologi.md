@@ -10,8 +10,8 @@
 
 ## Ia        Sverige
 ### Iaa      Götaland
-Iaaa         Skåne
-Iaae         Västergötland
+#### Iaaa    Skåne
+#### Iaae    Västergötland
 ## Ib        Norden alm.
 ### Iba      Danmark
 ### Ibb      Norge
@@ -32,6 +32,6 @@ Iaae         Västergötland
 ## Im        Klassisk arkeologi
 ### Ima      Grekisk arkeologi
 ### Imb      Romersk arkeologi
- Imby    Romerska provinsers arkeologi
+#### Imby    Romerska provinsers arkeologi
 ### Imc      Etrustisk arkeologi
 ### Imd      Fornkristen arkeologi
