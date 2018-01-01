@@ -8,7 +8,7 @@
 ### Cba       Bibelutgåvor
 ### Cbb       Bibelkommentarer
 
-##Cc          Litteratur om bibeln
+## Cc         Litteratur om bibeln
 ### Cca       GT
 ### Ccb       NT
 ### Ccc       Apokryfer
@@ -17,6 +17,13 @@
 #### Ccdz     Övriga bibliska personer
 
 ## Cd         Kyrkohistoria
+
+## Ce         Teologi
+### Cea       Äldre teologisk litteratur
+#### Ceaa     Kyrkofädernas skrifter och fornkristen litteratur
+#### Ceab     Medeltidsteologers skrifter
+#### Ceac     Reformatorernas skrifter
+#### Cead     Skrifter av motreformationens teologer
 
 ## Cg         Övriga religioner
 ### Cga       Judendom
