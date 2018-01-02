@@ -3,6 +3,10 @@
 ## Ca         Kristendom
 ### Caa       Kristen mission
 ### Cab       Kristna samfund
+#### Caba     Romersk-katolska kyrkan
+#### Cabb     Lutherska samfund
+#### Cabm     Andliga ordnar och klosterväsen
+Cbama         Romersk-katolska kyrkan
 
 ## Cb         Bibelutgåvor med bibel­kommentarer
 ### Cba       Bibelutgåvor
