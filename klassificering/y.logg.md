@@ -2,6 +2,10 @@
 
 De nya, ändringar, rättelser och borttagningar av koder som förekommer m.m.
 
+## 2.5.2b (2018-03-18)
+* Fixar #4
+  * bytte namn på g.historia_och_arkeologi.md -> g.historia.md
+
 ## 2.5.2 (2018-03-18)
 * Fixar buggen #3
   * bytte namn på s och t
