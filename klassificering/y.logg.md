@@ -2,6 +2,11 @@
 
 De nya, ändringar, rättelser och borttagningar av koder som förekommer m.m.
 
+## 2.5.2 (2018-03-18)
+* Fixar buggen #3
+  * bytte namn på s och t
+  * la till den gamla h. etnologi, som var glömd
+
 ## 2.5.1b
 * Ytterligare några kåder under C.
   * Caba - Romersk-katolska kyrkan
