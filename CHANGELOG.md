@@ -2,7 +2,20 @@
 
 De nya, ändringar, rättelser och borttagningar av koder som förekommer m.m.
 
+## 2.6 (2019-06-2?)
+
+* Brutit ut *Ämnesord* till egen repo
+* Ny struktur på repon
+* Ny licens (cc-by-sa 4.0)
+* Nya koder:
+  * Jy - Kartografi
+
+## 2.5.3 (2018-10-28)
+
+* la till .0825 postapokalyptisk
+
 ## 2.5.2b (2018-03-18)
+
 * Fixar #4
   * bytte namn på g.historia_och_arkeologi.md -> g.historia.md
 
