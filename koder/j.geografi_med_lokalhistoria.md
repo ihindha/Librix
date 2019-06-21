@@ -29,3 +29,5 @@
 ## Jg             Oceanien
 ## Jh             Polarområdet
 ## Ji             Oceaner och hav
+
+## Jy             Kartografi
