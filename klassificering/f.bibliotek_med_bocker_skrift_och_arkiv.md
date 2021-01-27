@@ -30,7 +30,7 @@
 ### Fch           E-böcker
 ### Fci           Ljudböcker
 ### Fgc           Källkritik
-#### Fcgb         Kreativt skrivande
+
 
 ## Fd             Arkiv
 ## Fe             Bokhandel och bokförlag
@@ -38,11 +38,12 @@
 ## Ff             Skrift
 ### Ffa           Skrift- och alfabet (historia)
 #### Ffaa         Västerländska
-Ffaaa             Runor
+##### Ffaaa       Runor
 #### Ffab         Österländska
 #### Ffac         Övriga
 ### Ffb           Kalligrafi
 ### Ffc           Chiffer
 ### Ffd           Paleografi
+### Ffe           Kreativt skrivande
 
 ## Fg             Läsning
