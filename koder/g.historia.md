@@ -38,6 +38,7 @@
 ### Gka               Genushistoria
 ### Gkb               Arbetarhistoria
 ### Gkc               Sociala protester
+### Gkd               Arestokrati 
 
 ## Gl                 Historiska hjälpvetenskaper
 ### Gla               Sigillkunskap
