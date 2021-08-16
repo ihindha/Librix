@@ -1,27 +1,49 @@
-# N           Hobby
+---
+date: 2021-08-15
+valvkod: 60
+typ: klass
+status: 
+---
 
-## Nb         Knivslöjd
-## Nc         Lek, idrott och spel
-## Nd         Pipor och tobak
+[[000-index|🗂 Index]] | [[060-librix|📇 Libtix]]
+<br>**Tags:** #librix #klasifikation
+<br>**Datum (modifikation):** 2021-08-15
+<br>**Version:** 2.6.1
 
-## Ne         Trädgård
-### Nea       Rosor
+# N Hobby
 
-## Nf         Textil
-### Nfa       Vävnad
-### Nfb       Sömnad
-#### Nfba     Lappsömnad
-### Nfc       Virkning och stickning
+---
 
-## Ng         Mat och dryck
-### Nga       Matlagning
-### Ngb       Dryck
-#### Ngba     Whisky
-#### Ngbb     Vin
-#### Ngbc     Öl
-#### Ngbd     Te/kaffe
-### Ngc       Mat
-#### Ngca     Ost
-#### Ngcb     Choklad
+## Nb  Knivslöjd
+## Nc  Lek, idrott och spel
+## Nd  Pipor och tobak
+## Ne Trädgård
+### Nea Rosor
 
-## Nk         Rollspel
+<br>
+
+## Nf Textil
+### Nfa Vävnad
+### Nfb Sömnad
+#### Nfba Lappsömnad
+### Nfc Virkning och stickning
+
+<br>
+
+## Ng Mat och dryck
+### Nga Matlagning
+### Ngb Dryck
+#### Ngba Whisky
+#### Ngbb Vin
+#### Ngbc Öl
+#### Ngbd Te/kaffe
+
+<br>
+
+### Ngc Mat
+#### Ngca Ost
+#### Ngcb Choklad
+
+<br>
+
+## Nk Rollspel

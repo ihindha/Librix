@@ -1,49 +1,64 @@
-# F               Bibliotek med böcker, skrift och arkiv
+# F Bibliotek med böcker, skrift och arkiv
 
-## Fa             Bibliografier
-### Faa-Fau       Bibliografier inom visst ämne
+---
 
-## Fb             Bibliotek
-.01               Vetenskapliga bibliotek
-.02               Folkbibliotek
-.03               Skolbibliotek
-.04               Privata bibliotek
-.041              Slotts bibliotek
-.05               Företags bibliotek
-.06               Övriga bibliotek
-### Fba           Bibliotekshistoria
-### Fbb           Bokbestond
-#### Fbba         Klassificering och indexering
-#### Fbbb         Katalogisering
-### Fbc           Informations återvisning
-### Fbd           Biblioteks vetenskap
+## Fa Bibliografier
+### Faa-Fau Bibliografier inom visst ämne
 
-## Fc             Böcker m.m.
-### Fca           Bokvård
-### Fcb           Bokbindning
-### Fcc           Boktryckarkonst
-### Fcd           Bokhistoria
-### Fce           Boksamlande
-### Fcf           Skrivredskap och skrivmaterial
-### Fcg           Redigerings teknik
-#### Fcga         Rapporter och uppsatser
-### Fch           E-böcker
-### Fci           Ljudböcker
-### Fgc           Källkritik
+## Fb Bibliotek
+.01  Vetenskapliga bibliotek<br>
+.02  Folkbibliotek<br>
+.03  Skolbibliotek<br>
+.04  Privata bibliotek<br>
+.041 Slotts bibliotek<br>
+.05  Företags bibliotek<br>
+.06  Övriga bibliotek<br>
+<br>
 
+### Fba Bibliotekshistoria
+### Fbb Bokbestond
+#### Fbba Klassificering och indexering
+#### Fbbb Katalogisering
+### Fbc Informations återvisning
+### Fbd Biblioteks vetenskap
 
-## Fd             Arkiv
-## Fe             Bokhandel och bokförlag
+## Fc Böcker m.m.
+### Fca Bokvård
+### Fcb Bokbindning
+### Fcc Boktryckarkonst
+### Fcd Bokhistoria
+### Fce Boksamlande
+<br>
 
-## Ff             Skrift
-### Ffa           Skrift- och alfabet (historia)
-#### Ffaa         Västerländska
-##### Ffaaa       Runor
-#### Ffab         Österländska
-#### Ffac         Övriga
-### Ffb           Kalligrafi
-### Ffc           Chiffer
-### Ffd           Paleografi
-### Ffe           Kreativt skrivande
+### Fcf Skrivredskap och skrivmaterial
+### Fcg Redigerings teknik
+#### Fcga Rapporter och uppsatser
+<br>
 
-## Fg             Läsning
+### Fch E-böcker
+### Fci Ljudböcker
+### Fgc Källkritik
+<br>
+
+## Fd Arkiv
+## Fe Bokhandel och bokförlag
+<br>
+
+## Ff Skrift
+### Ffa Skrift- och alfabet (historia)
+#### Ffaa Västerländska
+##### Ffaaa Runor
+<br>
+
+#### Ffab Österländska
+#### Ffac Övriga
+<br>
+
+### Ffb Kalligrafi
+### Ffc Chiffer
+### Ffd Paleografi
+### Ffe Kreativt skrivande
+<br>
+
+## Fg Läsning
+
