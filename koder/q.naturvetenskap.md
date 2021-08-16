@@ -1,39 +1,69 @@
-# Q            Naturvetenskap
+---
+date: 2021-08-15
+valvkod: 60
+typ: klass
+status: 
+---
 
-## Qa          Fysik och Kemi
-### Qaa        Fysik
-#### Qaaa      Akustik
-#### Qaab      Optik
-#### Qaac      Värmelära
-#### Qaad      Elektronik och magnetism
-#### Qaae      Teoretisk och matematisk
-### Qab        Kemi
-### Qac        Astronomi
+[[000-index|🗂 Index]] | [[060-librix|📇 Libtix]]
+<br>**Tags:** #librix #klasifikation
+<br>**Datum (modifikation):** 2021-08-15
+<br>**Version:** 2.6.1
 
-## Qb          Geologi och Paleontologi
-### Qba        Geologi
-### Qbb        Paleontologi
-.01            Systematik
-.02            Preparering och restaurang
-.05            Paleoekologi
-.08            Fossila plankton
-#### Qbba      Paleobotanik
-#### Qbbb      Paleozoologi
+# Q Naturvetenskap
 
-## Qc          Geofysik
-### Qca        Meteorologi
-#### Qcaj      Klimatologi
+---
 
-## Qd          Biologi
-## Qe          Botanik
-## Qf          Zoologi
-## Qi          Ekologi
-### Qia        Limnologi
+## Qa  Fysik och Kemi
+### Qaa Fysik
+#### Qaaa Akustik
+#### Qaab Optik
+#### Qaac Värmelära
+#### Qaad Elektronik och magnetism
+#### Qaae Teoretisk och matematisk
 
-## Qj          Naturskildringar
-## Qk          Miljöfrågor och naturfrågor
+<br>
 
-## Qn          Utvecklingslära
-### Ona        Genetik
+### Qab Kemi
+### Qac Astronomi
 
-## Qq          Teknologi
+<br>
+
+## Qb Geologi och Paleontologi
+### Qba Geologi
+### Qbb Paleontologi
+.01 Systematik <br>
+.02 Preparering och restaurang<br>
+.05 Paleoekologi<br>
+.08 Fossila plankton<br>
+
+#### Qbba Paleobotanik
+#### Qbbb Paleozoologis
+
+<br>
+
+## Qc Geofysik
+### Qca Meteorologi
+#### Qcaj Klimatologi
+
+<br>
+
+## Qd Biologi
+## Qe Botanik
+## Qf Zoologi
+## Qi Ekologi
+### Qia Limnologi
+
+<br>
+
+## Qj Naturskildringar
+## Qk Miljöfrågor och naturfrågor
+
+<br>
+
+## Qn Utvecklingslära
+### Ona Genetik
+
+<br>
+
+## Qq Teknologi

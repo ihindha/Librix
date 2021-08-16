@@ -1,53 +1,89 @@
-# O               Datalogi
+---
+date: 2021-08-15
+valvkod: 60
+typ: klass
+status: 
+---
 
-## Oa             Operativsystem
-### Oaa           Postix baserade system
-#### Oaaa         Unix
-#### Oaab         Linux
-#### Oaac         BSD
-#### Oaad         OS X
-### Oab           Windows med DOS
+[[000-index|🗂 Index]] | [[060-librix|📇 Libtix]]
+<br>**Tags:** #librix #klasifikation
+<br>**Datum (modifikation):** 2021-08-15
+<br>**Version:** 2.6.1
 
-## Ob            Program efter funktion
-### Oba          Ordbehandling *hit även textbehandling*
-### Obb          Kalkyl
-### Obc          Bildbehandling
-### Obd          Ljudbehandling
+# O Datalogi
 
-## Oc            Programmering
-### Oca          Linjär programmering
-### Ocb          Objektorienterad programmering
-### Occ          Script programmering
-### Ocd          Markup språk
-### Ocg          C, C++, C# m.f.
-### Och          Pascal
-### Oci          Java (inkl. Android)
-### Ocj          Perl
-### Ock          Python
-### Ocl          Bach
-### Ocm          PHP
-### Ocn          JavaScript
-### Oco          HTML,CSS
+---
 
-## Od            Databas
-## Oda           SQL
+## Oa Operativsystem
+### Oaa Postix baserade system
+#### Oaaa Unix
+#### Oaab Linux
+#### Oaac BSD
+#### Oaad OS X
 
-## Of            Versionshantering
-### Ofa          Subversion
-### Ofb          Git
+<br>
 
-## Om            Nätverk
-### Oma          Protokoll
+### Oab Windows med DOS
 
-##On             Internet
-### Ona          Infrastruktur
-#### Onaa        Domännamn
-### Onb          E-post
-### Onc          Chatt *(hit även andra medelandetjänster)*
-### Ond          Webben
-#### Onda        Sök och sökmotorer
-#### Ondb        Sociala media
-#### Ondc        Innehållshantering
-Ondca            Bloggar
-Ondcb            Wiki *(:MediaWiki (hit även Wikimedia Fondation))*
-Ondcc            Diskussionsforum
+<br>
+
+## Ob Program efter funktion
+### Oba Ordbehandling *hit även textbehandling*
+### Obb Kalkyl
+### Obc Bildbehandling
+### Obd Ljudbehandling
+
+<br>
+
+## Oc Programmering
+### Oca Linjär programmering
+### Ocb Objektorienterad programmering
+### Occ Script programmering
+### Ocd Markup språk
+### Ocg C, C++, C# m.f.
+### Och Pascal
+### Oci Java (inkl. Android)
+### Ocj Perl
+### Ock Python
+### Ocl Bach
+### Ocm PHP
+### Ocn JavaScript
+### Oco HTML,CSS
+
+<br>
+
+## Od Databas
+### Oda SQL
+
+<br>
+
+## Of Versionshantering
+### Ofa Subversion
+### Ofb Git
+
+<br>
+
+## Om Nätverk
+### Oma Protokoll
+
+<br>
+
+## On Internet
+### Ona Infrastruktur
+#### Onaa Domännamn
+
+<br>
+
+### Onb E-post
+### Onc Chatt *(hit även andra medelandetjänster)*
+### Ond Webben
+#### OndaSök och sökmotorer
+#### OndbSociala media
+
+<br>
+
+#### Ondc Innehållshantering
+Ondca Bloggar<br>
+Ondcb Wiki *(:MediaWiki (hit även Wikimedia Fondation))*<br>
+Ondcc Diskussionsforum<br>
+Ondcd Obsidian<br>
