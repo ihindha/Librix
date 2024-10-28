@@ -1,0 +1,86 @@
+---
+date: 2021-08-15
+valvkod: 60
+typ: klass
+status: 
+order: 8
+created: 2022-09-17 11:01
+updated: 2023-09-01
+id: 01H6ZWKB8ANAMRQ5SEZWSY69N8
+---
+
+[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
+<br>**Tags:** #librix #klassifikation
+<br>**Datum (modifikation):** 2021-08-15
+<br>**Version:** 2.6.1
+
+# G. Historia
+
+---
+
+## Ga Sverige
+### Gaa Götaland
+#### Gaaa Skåne
+<br>
+
+### Gas Samernas historia: allmänt
+#### Gas-a Samernas historia: Sverige
+#### Gas-bb Samernas historia: Norge
+#### Gas-bd Samernas historia: Finland
+#### Gas-cj Samernas historia: Ryssland
+<br>
+
+## Gb Norden alm.
+### Gba  Danmark
+### Gbb  Norge
+### Gbc  Island
+### Gbd  Finland
+<br>
+
+## Gc Europa alm.
+### Gca Brittiska öarna
+### Gcb Tyskland
+### Gcc Frankrike
+### Gcd-Gcm Europa: övriga specifika länder
+### Gcp Europeiska unionen
+### Gcs Kelternas historia  
+*Hit endast alm. framställningar av kelternas historia oavsett landtillhörighet.*<br>
+<br>
+
+## Gd Asien
+### Gda Främre asiens och Mellanösterns historia
+<br>
+
+## Ge Afrika
+## Gf Amerika
+### Gfa Usa
+#### Gfam Indianernas historia i Nordamerika
+#### Gfan Rasfrågan
+<br>
+
+## Gg Oceanien
+<br>
+
+## Gk Socialhistoria
+### Gka  Genushistoria
+### Gkb  Arbetarhistoria
+### Gkc  Sociala protester
+### Gkd  Arestokrati 
+<br>
+
+## Gl Historiska hjälpvetenskaper
+### Gla  Sigillkunskap
+### Glb  Heraldik
+### Glc  Flaggor/fanor
+### Gld  Eblematik
+### Gle  Rang - och elitväsen
+### Glf  Historisk kronologi (inkl. tideräkningar och kalendrar)
+### Glg  Ordensväsen
+### Glh  Numismatik
+### Gli  Diplomati
+<br>
+
+## Gm Kulturhistoria
+## Gn Ide- och vetenskapshistoria
+## Go Militärhistoria
+## Gp Ekonomisk historia
