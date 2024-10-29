@@ -6,13 +6,11 @@ status:
 order: 2
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB9A1GPJ69BBW7G7DQ0X
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
 
 # A. Allmänt och blandat
 

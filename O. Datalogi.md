@@ -6,16 +6,10 @@ status:
 order: 15
 created: 2022-09-17 11:01
 updated: 2024-10-15
-id: 01H6ZWKB79A4SSN9YGG2HFXSGY
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# O. Datalogi
-
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Oa Operativsystem

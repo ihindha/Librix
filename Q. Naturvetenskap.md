@@ -6,16 +6,10 @@ status:
 order: 17
 created: 2022-09-17 11:01
 updated: 2024-10-15
-id: 01H6ZWKB719TC31YSAFVT7G290
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# Q. Naturvetenskap
-
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Qa  Fysik och Kemi

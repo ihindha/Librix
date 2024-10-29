@@ -6,17 +6,13 @@ status:
 order: 4
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB50FTTNX0SXVHH8K2YN
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# Litterära riktningar
-
----
+### Litterära riktningar
 
 .01 	  Noveller<br>
 .012 	  Kortromaner<br>
@@ -52,7 +48,7 @@ id: 01H6ZWKB50FTTNX0SXVHH8K2YN
 
 
 
-##### Litterära perioder
+### Litterära perioder
 
 .21	    Forntiden<br>
 .211	  Den äldsta litteraturen<br>

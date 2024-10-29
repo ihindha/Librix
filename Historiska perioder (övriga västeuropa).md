@@ -6,19 +6,13 @@ status:
 order: 8
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB541K9ME6S7QQWKW598
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# Historiska perioder (övriga västeuropa)
-
----
-
-## Brittiska öarna (England)
+### Brittiska öarna (England)
 .2	 Forntid<br>
 .3	 Medeltiden -1485<br>
 .31	 Anglosaxen England (-> 1066)<br>
@@ -41,7 +35,7 @@ id: 01H6ZWKB541K9ME6S7QQWKW598
 .59	 1994-<br>
 .6	 Från 2001-09-11
 
-## Frankrike
+### Frankrike
 .2	  Före 987<br>
 .3	  Medeltiden 987-1498<br>
 .31	  987-1328<br>
@@ -65,7 +59,7 @@ id: 01H6ZWKB541K9ME6S7QQWKW598
 .59	  1994-<br>
 .6	  Från 2001-09-11<br>
 
-## Italien
+### Italien
 .3	 Medeltiden ca 476-1400<br>
 .4	 Tidigmodern tid 1400-<br>
 .41	 1400-1550<br>
@@ -81,7 +75,7 @@ id: 01H6ZWKB541K9ME6S7QQWKW598
 .59	 1994-<br>
 .6	 Från 2001-09-11<br>
 
-## Tyskland
+### Tyskland
 .2	  Före 843<br>
 .3	  843-ca:1500<br>
 .31	  843-1254<br>

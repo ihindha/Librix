@@ -6,16 +6,10 @@ status:
 order: 4
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB93BX155EGCFJV5BEZA
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# C. Religion med mytologi
-
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Ca Kristendom

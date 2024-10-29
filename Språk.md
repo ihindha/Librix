@@ -6,16 +6,10 @@ status:
 order: 2
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB4QQY2KBN8SMHZ40RHP
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# Språk
-
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 a    Svenska<br>

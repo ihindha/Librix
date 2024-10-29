@@ -5,7 +5,6 @@ longform:
   workflow: librix
   sceneFolder: /
   scenes:
-    - 060. Librix
     - Tilläggskoder
     - - Plats
       - Språk

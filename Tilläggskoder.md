@@ -6,15 +6,10 @@ status:
 order: 1
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB4DH3CHN76A11TFPGQA
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# Tilläggskoder
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Alm. tilläggskoder

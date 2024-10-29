@@ -6,16 +6,10 @@ status:
 order: 14
 created: 2022-09-17 11:01
 updated: 2024-10-13
-id: 01H6ZWKB7DTNDP3X302GD7DV71
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# N. Hobby
-
+version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Nb  Knivslöjd

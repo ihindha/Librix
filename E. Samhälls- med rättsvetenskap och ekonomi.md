@@ -6,16 +6,10 @@ status:
 order: 6
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB8P0J85FX4R4Q7X15GD
----
-
-[[000-index|🗂 Index]] | [[060. Librix|📇 Libtix]]
-<br>**Tags:** #librix #klassifikation
-<br>**Datum (modifikation):** 2021-08-15
-<br>**Version:** 2.6.1
-
-# E. Samhälls- med rättsvetenskap och ekonomi
-
+-version: 2.7
+tags:
+  - klassifikation
+  - librix
 ---
 
 ## Ea           Statskunskap och politik
