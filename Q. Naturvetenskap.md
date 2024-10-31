@@ -6,7 +6,7 @@ status:
 order: 17
 created: 2022-09-17 11:01
 updated: 2024-10-15
-version: 2.7
+version: "2.7"
 tags:
   - klassifikation
   - librix

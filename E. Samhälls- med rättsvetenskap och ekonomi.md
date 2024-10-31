@@ -6,10 +6,10 @@ status:
 order: 6
 created: 2022-09-17 11:01
 updated: 2023-09-01
--version: 2.7
 tags:
   - klassifikation
   - librix
+version: "2.7"
 ---
 
 ## Ea           Statskunskap och politik

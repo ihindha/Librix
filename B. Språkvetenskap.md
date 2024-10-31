@@ -6,8 +6,7 @@ status:
 order: 3
 created: 2022-09-17 11:01
 updated: 2023-09-01
-id: 01H6ZWKB975F58HFAME1BS7BXG
-version: 2.7
+version: "2.7"
 tags:
   - klassifikation
   - librix
