@@ -34,7 +34,8 @@ longform:
     - S. Konst, musik, teater och film
     - T. Skönlitteratur
     - U. Litteraturvetenskap
-  ignoredFiles: []
+  ignoredFiles:
+    - 060. Librix
 date: 2024-10-28
 updated: 2024-10-28
 ---
