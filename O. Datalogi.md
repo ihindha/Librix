@@ -6,7 +6,7 @@ status:
 order: 15
 created: 2022-09-17 11:01
 updated: 2024-10-15
-version: "2.7"
+version: 2.7.1
 tags:
   - klassifikation
   - librix
@@ -62,6 +62,8 @@ tags:
 ### Ofb Git
 
 <br>
+## Oh AI
+<br>
 
 ## Om Nätverk
 ### Oma Protokoll
@@ -91,3 +93,6 @@ tags:
 ##### Ondcd Obsidian
 
 #### Onde Rss/Podcasts
+
+## Op Datorsäkerhet
+### Opa Backup
