@@ -51,7 +51,7 @@ version: "2.7"
 #### Edcb Åldersgrupper
 <br>
 
-### Rdd Socialpsykologi
+### Edd Socialpsykologi
 <br>
 
 ## Ee Sociala frågor
