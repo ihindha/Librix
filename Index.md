@@ -36,6 +36,7 @@ longform:
     - U. Litteraturvetenskap
   ignoredFiles:
     - 060. Librix
+    - changelog
 date: 2024-10-28
 updated: 2024-10-28
 ---
