@@ -6,7 +6,7 @@ status:
 order: 14
 created: 2022-09-17 11:01
 updated: 2024-10-13
-version: "2.7"
+version: 2.7.2
 tags:
   - klassifikation
   - librix
@@ -47,3 +47,5 @@ tags:
 ## Nk Rollspel
 
 ## Nm Lego
+
+# No Självförsvar, kampsport
