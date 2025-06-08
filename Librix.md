@@ -1,4 +1,4 @@
-Tilläggskoder
+# Tilläggskoder
 
 
 
@@ -23,7 +23,7 @@ z Alm. underkod vid en enskild företeelse t.ex. Kbaz Larsson, Carl  *(Kan sätt
 :s Sociologisk<br>
 
 
-Plats
+# Plats
 
 
 
@@ -137,7 +137,7 @@ h	   Polarområdena<br>
 i	   Oceaner och hav<br>
 
 
-Språk
+# Språk
 
 
 
@@ -182,7 +182,7 @@ n Asiatiska språk<br>
 o Övriga språk<br>
 
 
-Historiska perioder (Allmän)
+# Historiska perioder (Allmän)
 
 
 
@@ -245,7 +245,7 @@ Historiska perioder (Allmän)
 .6	   Från 2001-09-11<br>
 
 
-Historiska perioder (Sverige med Skåneland)
+# Historiska perioder (Sverige med Skåneland)
 
 
 
@@ -323,7 +323,7 @@ Historiska perioder (Sverige med Skåneland)
 .6	  Från 2001-09-11<br>
 
 
-Historiska perioder (övriga Norden)
+# Historiska perioder (övriga Norden)
 
 
 
@@ -427,7 +427,7 @@ Historiska perioder (övriga Norden)
 .6	  Från 2001-09-11<br>
 
 
-Historiska perioder (övriga västeuropa)
+# Historiska perioder (övriga västeuropa)
 
 
 
@@ -515,7 +515,7 @@ Historiska perioder (övriga västeuropa)
 .59	  1990-<br>
 
 
-Historiska perioder (USA)
+# Historiska perioder (USA)
 
 
 
@@ -525,7 +525,7 @@ Historiska perioder (USA)
 .47	 1865-1914<br>
 
 
-Litteratur
+# Litteratur
 
 
 
@@ -587,7 +587,7 @@ Litteratur
 .26	    2000-talet<br>
 
 
-A. Allmänt och blandat
+# A. Allmänt och blandat
 
 
 
@@ -649,7 +649,7 @@ Adcce	Skolsociala åtgärder<br>
 .07	Material<br>
 
 
-B. Språkvetenskap
+# B. Språkvetenskap
 
 
 
@@ -713,7 +713,7 @@ Biaab Iriska<br>
 ## Bo Övriga språk
 
 
-C. Religion med mytologi
+# C. Religion med mytologi
 
 
 
@@ -776,7 +776,7 @@ Cbama Romersk-katolska kyrkan
 ### Cma Wicca
 
 
-D. Filosofi med Psykologi
+# D. Filosofi med Psykologi
 
 
 
@@ -892,7 +892,7 @@ Dpdbb Fantasiliv
 #### Dpjb Köns psykologi
 
 
-E. Samhälls- med rättsvetenskap och ekonomi
+# E. Samhälls- med rättsvetenskap och ekonomi
 
 
 
@@ -993,7 +993,7 @@ Emaea  Upphovsrätt
 Eubna  Egenföretagare
 
 
-F. Bibliotek med böcker, skrift och arkiv
+# F. Bibliotek med böcker, skrift och arkiv
 
 
 ## Fa Bibliografier
@@ -1058,7 +1058,7 @@ F. Bibliotek med böcker, skrift och arkiv
 ## Fg Läsning
 
 
-G. Historia
+# G. Historia
 
 
 
@@ -1130,7 +1130,7 @@ G. Historia
 ## Gp Ekonomisk historia
 
 
-H. Etnologi
+# H. Etnologi
 
 
 
@@ -1149,7 +1149,7 @@ H. Etnologi
 ## Hm Främmande länder
 
 
-I. Arkeologi
+# I. Arkeologi
 
 
 
@@ -1196,7 +1196,7 @@ I. Arkeologi
 ### Imd      Fornkristen arkeologi
 
 
-J. Geografi med lokalhistoria
+# J. Geografi med lokalhistoria
 
 
 
@@ -1239,7 +1239,7 @@ J. Geografi med lokalhistoria
 ## Jy Kartografi
 
 
-K. Genealogi och hembygdsforskning med Bibliografi
+# K. Genealogi och hembygdsforskning med Bibliografi
 
 
 
@@ -1271,7 +1271,7 @@ K. Genealogi och hembygdsforskning med Bibliografi
 *Särsk. Författare ->Uaz resp. Uz*<br>
 
 
-M. Fiske med jakt
+# M. Fiske med jakt
 
 
 
@@ -1281,7 +1281,7 @@ M. Fiske med jakt
 ## Mc Jakt
 
 
-N. Hobby
+# N. Hobby
 
 
 
@@ -1321,8 +1321,10 @@ N. Hobby
 
 ## Nm Lego
 
+# No Självförsvar, kampsport
 
-O. Datalogi
+
+# O. Datalogi
 
 
 
@@ -1344,6 +1346,9 @@ O. Datalogi
 #### Obad Markdowvn
 ### Obb Kalkyl
 ### Obc Bildbehandling
+#### Obca Bildanalys
+##### Obcad OCR
+
 ### Obd Ljudbehandling
 ### Obe Terminal
 ### Obk Dator och Tv spel
@@ -1411,7 +1416,7 @@ O. Datalogi
 ## Op Datorsäkerhet
 ### Opa Backup
 
-P. Matematik
+# P. Matematik
 
 
 
@@ -1422,7 +1427,7 @@ P. Matematik
 ## Pe Mått, vikt m.m.
 
 
-Q. Naturvetenskap
+# Q. Naturvetenskap
 
 
 
@@ -1482,7 +1487,7 @@ Q. Naturvetenskap
 ## Qq Teknologi
 
 
-R. Medicin
+# R. Medicin
 
 
 
@@ -1499,7 +1504,7 @@ R. Medicin
 ## Rk Psykiatri
 
 
-S. Konst, musik, teater och film
+# S. Konst, musik, teater och film
 
 
 
@@ -1548,7 +1553,7 @@ Sbeaa        Vävnader
 ## Se Teater
 
 
-T. Skönlitteratur
+# T. Skönlitteratur
 
 
 
@@ -1569,7 +1574,7 @@ y I utländsk översättning<br>
 <br>
 
 
-U. Litteraturvetenskap
+# U. Litteraturvetenskap
 
 
 
