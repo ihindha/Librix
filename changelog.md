@@ -4,6 +4,14 @@ Alla de största ändringarna gjorda till mina dotfiler finns registret här (fr
 
 Formateringen är baserat på [För en ändringlogg](https://keepachangelog.com/sv/1.1.0/) och följer delvis [semantisk versonshantering](https://semver.org/lang/sv/)
 
+
+# 2.7.3
+
+### Ny kod
+
+* Obca Bildanalys
+* Obcad OCR
+
 # 2.7.2
 
 ### Ny kod 
