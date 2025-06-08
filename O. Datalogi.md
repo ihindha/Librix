@@ -30,6 +30,9 @@ tags:
 #### Obad Markdowvn
 ### Obb Kalkyl
 ### Obc Bildbehandling
+#### Obca Bildanalys
+##### Obcad OCR
+
 ### Obd Ljudbehandling
 ### Obe Terminal
 ### Obk Dator och Tv spel
