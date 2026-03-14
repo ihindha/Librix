@@ -53,18 +53,15 @@ tags:
 ### Ocn JavaScript
 ### Oco HTML,CSS
 
-<br>
 
 ## Od Databas
 ### Oda SQL
 
-<br>
 
 ## Of Versionshantering
 ### Ofa Subversion
 ### Ofb Git
 
-<br>
 ## Oh AI
 <br>
 
@@ -77,7 +74,6 @@ tags:
 ### Ona Infrastruktur
 #### Onaa Domännamn
 
-<br>
 
 ### Onb E-post
 ### Onc Chatt *(hit även andra medelandetjänster)*
