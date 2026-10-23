@@ -93,6 +93,7 @@ Emaea  Upphovsrätt
 ### Emm Kriminologi
 #### Emma Polisväsen
 #### Emmb Domstolsväsen
+
 #### Emmc Kriminalvårdsväsen
 <br>
 
@@ -107,3 +108,9 @@ Emaea  Upphovsrätt
 ### Eub Företagsekonomi
 #### Eubn Företagsformer
 Eubna  Egenföretagare
+<br>
+
+### Eud Jordbruk
+#### Eudf Husdjur
+Eudfj Katter 
+
