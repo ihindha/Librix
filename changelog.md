@@ -9,6 +9,10 @@ Formateringen är baserat på [För en ändringlogg](https://keepachangelog.com/
 ### Ny kod
 * Dpcf Känslor, känsloreaktioner
 
+* Eud Jordbruk
+* Eudf Husdjur
+* Eudfj Katter 
+
 
 # 2.7.3
 
