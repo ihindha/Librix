@@ -94,6 +94,7 @@ tags:
 <br>
 
 ### Dpc Fysiologisk psykologi
+#### Dpcf Känslor, känsloreaktioner 
 <br>
 
 ### Dpd Kognitiv  psykologi
