@@ -44,6 +44,7 @@ tags:
 .14 	  Arbetarlitteratur<br>
 .15 	  Erotisk litteratur<br>
 .16 	  Dialektal litteratur<br>
+.17    Romance 
 .18 	  Historisk<br>
 
 
